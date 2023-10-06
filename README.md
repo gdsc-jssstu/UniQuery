@@ -107,3 +107,4 @@ Celebrate Hacktoberfest by contributing to open source projects! This project is
 Thank you for contributing to UniQuery and being a part of Hacktoberfest! Your efforts help make this project better for university students. If you have any questions or need further assistance, please don't hesitate to reach out.
 
 Happy coding!
+Enjoy!!!!
